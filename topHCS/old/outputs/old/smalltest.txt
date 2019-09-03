@@ -1,0 +1,5 @@
+../../datafiles/initialVs0.torch
+../../datafiles/initialVs1.torch
+../../datafiles/initialVs2.torch
+../../datafiles/initialVs3.torch
+index accuracy for k= 100000  :  0.25557

@@ -1,0 +1,44 @@
+On ['../../datafiles/initialVs0.torch', '../../datafiles/initialVs1.torch', '../../datafiles/initialVs2.torch', '../../datafiles/initialVs3.torch']
+k Values = [50000, 100000]
+
+ CSVec: index accuracy = array([0.30818, 0.18555])
+CSVec: median L1 reconstruction error = array([6.14215665e-08, 5.73302295e-08])
+CSVec: median L2 reconstruction error = array([[2.73146759e-15, 2.19573556e-15],
+       [2.81130722e-15, 2.28275951e-15],
+       [2.91375565e-15, 2.38621230e-15],
+       [3.09636557e-15, 2.55034887e-15]])
+
+ TopHCS: index accuracy = array([[0.3713 , 0.24426],
+       [0.36518, 0.23718],
+       [0.35868, 0.23039],
+       [0.3461 , 0.22063]])
+TopHCS: median L1 reconstruction error = array([[5.22634451e-08, 4.68586769e-08],
+       [5.30217612e-08, 4.77782329e-08],
+       [5.39792140e-08, 4.88488716e-08],
+       [5.56449962e-08, 5.05009794e-08]])
+TopHCS: median L2 reconstruction error = array([[2.73146759e-15, 2.19573556e-15],
+       [2.81130722e-15, 2.28275951e-15],
+       [2.91375565e-15, 2.38621230e-15],
+       [3.09636557e-15, 2.55034887e-15]])
+On ['../../datafiles/accumulatedVs0.torch', '../../datafiles/accumulatedVs1.torch', '../../datafiles/accumulatedVs2.torch', '../../datafiles/accumulatedVs3.torch']
+k Values = [50000, 100000]
+
+ CSVec: index accuracy = array([0.03662, 0.03755])
+CSVec: median L1 reconstruction error = array([8.56427068e-05, 8.10980418e-05])
+CSVec: median L2 reconstruction error = array([[6.69119649e-09, 5.66054847e-09],
+       [6.79655354e-09, 5.81458171e-09],
+       [6.92886815e-09, 5.99354788e-09],
+       [7.09351111e-09, 6.21626306e-09]])
+
+ TopHCS: index accuracy = array([[0.0424 , 0.04624],
+       [0.04154, 0.0448 ],
+       [0.04008, 0.04277],
+       [0.0388 , 0.03999]])
+TopHCS: median L1 reconstruction error = array([[8.17997352e-05, 7.52366177e-05],
+       [8.24412127e-05, 7.62534037e-05],
+       [8.32398218e-05, 7.74180080e-05],
+       [8.42229856e-05, 7.88432808e-05]])
+TopHCS: median L2 reconstruction error = array([[6.69119649e-09, 5.66054847e-09],
+       [6.79655354e-09, 5.81458171e-09],
+       [6.92886815e-09, 5.99354788e-09],
+       [7.09351111e-09, 6.21626306e-09]])

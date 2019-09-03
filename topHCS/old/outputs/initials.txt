@@ -1,0 +1,76 @@
+Loaded paths :  ['../../datafiles/initialVs0.torch', '../../datafiles/initialVs1.torch', '../../datafiles/initialVs2.torch', '../../datafiles/initialVs3.torch']
+
+================= r = 5, k = 50000
+
+d =  90134735 
+ k =  50000
+
+h values :  [0, 0.5, 1.0]
+k values :  [50000]
+CSVec accuracy :  [0.1543]
+Top HCS accuracy :  
+ [[1.     ]
+ [0.21412]
+ [0.22136]]
+CSVec L2 :  [1.71890879e-05]
+Top HCS L2 :  
+[[0.00000000e+00]
+ [1.11603767e-05]
+ [1.07820888e-05]]
+ 
+ ================= r = 5, k = 100000
+
+d =  90134735 
+ k =  100000
+
+h values :  [0, 0.5, 1.0]
+k values :  [100000]
+row :  5
+CSVec accuracy :  [0.09229]
+Top HCS accuracy :  
+ [[1.     ]
+ [0.12725]
+ [0.13394]]
+CSVec L2 :  [2.16076169e-05]
+Top HCS L2 :  
+[[0.00000000e+00]
+ [1.46940065e-05]
+ [1.40615657e-05]]
+
+ ================= r = 15, k = 50000
+
+d =  90134735 
+ k =  50000
+
+h values :  [0, 0.5, 1.0]
+k values :  [50000]
+row :  15
+CSVec accuracy :  [0.3211]
+Top HCS accuracy :  
+ [[1.     ]
+ [0.37652]
+ [0.39184]]
+CSVec L2 :  [7.52577307e-06]
+Top HCS L2 :  
+[[0.00000000e+00]
+ [6.48265086e-06]
+ [6.25502980e-06]]
+ 
+ ================= r = 15, k = 100000
+
+d =  90134735 
+ k =  100000
+
+h values :  [0, 0.5, 1.0]
+k values :  [100000]
+row :  15
+CSVec accuracy :  [0.19329]
+Top HCS accuracy :  
+ [[1.     ]
+ [0.24214]
+ [0.25581]]
+CSVec L2 :  [1.03917146e-05]
+Top HCS L2 :  
+[[0.00000000e+00]
+ [8.79577055e-06]
+ [8.43287489e-06]]

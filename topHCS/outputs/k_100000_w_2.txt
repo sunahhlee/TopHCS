@@ -1,0 +1,294 @@
+]0;IPython: topHCS/topHCSUsing ['../../datafiles/initialVs0.torch', '../../datafiles/initialVs1.torch']
+vector loaded
+vector loaded
+d =  90134735 
+ cols =  180000 k =  50000 blocks =  30
+worker added
+worker added
+k =  50000
+worker added
+worker added
+h_curr =  12500
+worker added
+worker added
+h_curr =  25000
+worker added
+worker added
+h_curr =  37500
+worker added
+worker added
+h_curr =  50000
+topHCS accuracy : 
+ [[0.42684 0.      0.      0.      0.      0.     ]
+ [0.44914 0.      0.      0.      0.      0.     ]
+ [0.46164 0.      0.      0.      0.      0.     ]
+ [0.47034 0.      0.      0.      0.      0.     ]]
+CSVec accuracy : 
+ [0.3717 0.     0.     0.     0.     0.    ]
+d =  90134735 
+ cols =  180000 k =  60000 blocks =  30
+worker added
+worker added
+k =  60000
+worker added
+worker added
+h_curr =  15000
+worker added
+worker added
+h_curr =  30000
+worker added
+worker added
+h_curr =  45000
+worker added
+worker added
+h_curr =  60000
+topHCS accuracy : 
+ [[0.42684    0.37976667 0.         0.         0.         0.        ]
+ [0.44914    0.39956667 0.         0.         0.         0.        ]
+ [0.46164    0.41155    0.         0.         0.         0.        ]
+ [0.47034    0.4211     0.         0.         0.         0.        ]]
+CSVec accuracy : 
+ [0.3717 0.3252 0.     0.     0.     0.    ]
+d =  90134735 
+ cols =  180000 k =  70000 blocks =  30
+worker added
+worker added
+k =  70000
+worker added
+worker added
+h_curr =  17500
+worker added
+worker added
+h_curr =  35000
+worker added
+worker added
+h_curr =  52500
+worker added
+worker added
+h_curr =  70000
+topHCS accuracy : 
+ [[0.42684    0.37976667 0.34578571 0.         0.         0.        ]
+ [0.44914    0.39956667 0.36418571 0.         0.         0.        ]
+ [0.46164    0.41155    0.37577143 0.         0.         0.        ]
+ [0.47034    0.4211     0.38512857 0.         0.         0.        ]]
+CSVec accuracy : 
+ [0.3717     0.3252     0.29138571 0.         0.         0.        ]
+d =  90134735 
+ cols =  180000 k =  80000 blocks =  30
+worker added
+worker added
+k =  80000
+worker added
+worker added
+h_curr =  20000
+worker added
+worker added
+h_curr =  40000
+worker added
+worker added
+h_curr =  60000
+worker added
+worker added
+h_curr =  80000
+topHCS accuracy : 
+ [[0.42684    0.37976667 0.34578571 0.3188375  0.         0.        ]
+ [0.44914    0.39956667 0.36418571 0.3362125  0.         0.        ]
+ [0.46164    0.41155    0.37577143 0.3474     0.         0.        ]
+ [0.47034    0.4211     0.38512857 0.356175   0.         0.        ]]
+CSVec accuracy : 
+ [0.3717     0.3252     0.29138571 0.26515    0.         0.        ]
+d =  90134735 
+ cols =  180000 k =  90000 blocks =  30
+worker added
+worker added
+k =  90000
+worker added
+worker added
+h_curr =  22500
+worker added
+worker added
+h_curr =  45000
+worker added
+worker added
+h_curr =  67500
+worker added
+worker added
+h_curr =  90000
+topHCS accuracy : 
+ [[0.42684    0.37976667 0.34578571 0.3188375  0.29658889 0.        ]
+ [0.44914    0.39956667 0.36418571 0.3362125  0.31322222 0.        ]
+ [0.46164    0.41155    0.37577143 0.3474     0.3246     0.        ]
+ [0.47034    0.4211     0.38512857 0.356175   0.3335     0.        ]]
+CSVec accuracy : 
+ [0.3717     0.3252     0.29138571 0.26515    0.24431111 0.        ]
+d =  90134735 
+ cols =  180000 k =  100000 blocks =  30
+worker added
+worker added
+k =  100000
+worker added
+worker added
+h_curr =  25000
+worker added
+worker added
+h_curr =  50000
+worker added
+worker added
+h_curr =  75000
+worker added
+worker added
+h_curr =  100000
+topHCS accuracy : 
+ [[0.42684    0.37976667 0.34578571 0.3188375  0.29658889 0.2786    ]
+ [0.44914    0.39956667 0.36418571 0.3362125  0.31322222 0.29494   ]
+ [0.46164    0.41155    0.37577143 0.3474     0.3246     0.3053    ]
+ [0.47034    0.4211     0.38512857 0.356175   0.3335     0.31477   ]]
+CSVec accuracy : 
+ [0.3717     0.3252     0.29138571 0.26515    0.24431111 0.22645   ]
+Using ['../../datafiles/accumulatedVs0.torch', '../../datafiles/accumulatedVs1.torch']
+vector loaded
+vector loaded
+d =  90134735 
+ cols =  180000 k =  50000 blocks =  30
+worker added
+worker added
+k =  50000
+worker added
+worker added
+h_curr =  12500
+worker added
+worker added
+h_curr =  25000
+worker added
+worker added
+h_curr =  37500
+worker added
+worker added
+h_curr =  50000
+topHCS accuracy : 
+ [[0.07372 0.      0.      0.      0.      0.     ]
+ [0.07756 0.      0.      0.      0.      0.     ]
+ [0.07946 0.      0.      0.      0.      0.     ]
+ [0.08212 0.      0.      0.      0.      0.     ]]
+CSVec accuracy : 
+ [0.06894 0.      0.      0.      0.      0.     ]
+d =  90134735 
+ cols =  180000 k =  60000 blocks =  30
+worker added
+worker added
+k =  60000
+worker added
+worker added
+h_curr =  15000
+worker added
+worker added
+h_curr =  30000
+worker added
+worker added
+h_curr =  45000
+worker added
+worker added
+h_curr =  60000
+topHCS accuracy : 
+ [[0.07372    0.0713     0.         0.         0.         0.        ]
+ [0.07756    0.07485    0.         0.         0.         0.        ]
+ [0.07946    0.07721667 0.         0.         0.         0.        ]
+ [0.08212    0.07878333 0.         0.         0.         0.        ]]
+CSVec accuracy : 
+ [0.06894    0.06551667 0.         0.         0.         0.        ]
+d =  90134735 
+ cols =  180000 k =  70000 blocks =  30
+worker added
+worker added
+k =  70000
+worker added
+worker added
+h_curr =  17500
+worker added
+worker added
+h_curr =  35000
+worker added
+worker added
+h_curr =  52500
+worker added
+worker added
+h_curr =  70000
+topHCS accuracy : 
+ [[0.07372    0.0713     0.069      0.         0.         0.        ]
+ [0.07756    0.07485    0.07228571 0.         0.         0.        ]
+ [0.07946    0.07721667 0.07481429 0.         0.         0.        ]
+ [0.08212    0.07878333 0.07714286 0.         0.         0.        ]]
+CSVec accuracy : 
+ [0.06894    0.06551667 0.0629     0.         0.         0.        ]
+d =  90134735 
+ cols =  180000 k =  80000 blocks =  30
+worker added
+worker added
+k =  80000
+worker added
+worker added
+h_curr =  20000
+worker added
+worker added
+h_curr =  40000
+worker added
+worker added
+h_curr =  60000
+worker added
+worker added
+h_curr =  80000
+topHCS accuracy : 
+ [[0.07372    0.0713     0.069      0.0671125  0.         0.        ]
+ [0.07756    0.07485    0.07228571 0.0706625  0.         0.        ]
+ [0.07946    0.07721667 0.07481429 0.0731     0.         0.        ]
+ [0.08212    0.07878333 0.07714286 0.0757125  0.         0.        ]]
+CSVec accuracy : 
+ [0.06894    0.06551667 0.0629     0.061425   0.         0.        ]
+d =  90134735 
+ cols =  180000 k =  90000 blocks =  30
+worker added
+worker added
+k =  90000
+worker added
+worker added
+h_curr =  22500
+worker added
+worker added
+h_curr =  45000
+worker added
+worker added
+h_curr =  67500
+worker added
+worker added
+h_curr =  90000
+topHCS accuracy : 
+ [[0.07372    0.0713     0.069      0.0671125  0.0659     0.        ]
+ [0.07756    0.07485    0.07228571 0.0706625  0.07001111 0.        ]
+ [0.07946    0.07721667 0.07481429 0.0731     0.07202222 0.        ]
+ [0.08212    0.07878333 0.07714286 0.0757125  0.07561111 0.        ]]
+CSVec accuracy : 
+ [0.06894    0.06551667 0.0629     0.061425   0.05963333 0.        ]
+d =  90134735 
+ cols =  180000 k =  100000 blocks =  30
+worker added
+worker added
+k =  100000
+worker added
+worker added
+h_curr =  25000
+worker added
+worker added
+h_curr =  50000
+worker added
+worker added
+h_curr =  75000
+worker added
+worker added
+h_curr =  100000
+topHCS accuracy : 
+ [[0.07372    0.0713     0.069      0.0671125  0.0659     0.06509   ]
+ [0.07756    0.07485    0.07228571 0.0706625  0.07001111 0.06891   ]
+ [0.07946    0.07721667 0.07481429 0.0731     0.07202222 0.07212   ]
+ [0.08212    0.07878333 0.07714286 0.0757125  0.07561111 0.07541   ]]
+CSVec accuracy : 
+ [0.06894    0.06551667 0.0629     0.061425   0.05963333 0.05837   ]
