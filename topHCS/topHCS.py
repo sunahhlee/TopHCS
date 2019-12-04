@@ -4,8 +4,6 @@ import copy
 import torch
 from csvec import CSVec
 
-LARGEPRIME = 2**61-1
-
 def topk(vec, k):
 	""" Return the largest k elements (by magnitude) of vec """
 	ret = torch.zeros_like(vec)
